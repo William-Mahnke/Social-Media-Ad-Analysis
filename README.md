@@ -6,3 +6,5 @@ URL for dataset: https://www.kaggle.com/datasets/alperenmyung/social-media-adver
 ## Exploratory Data Analysis
 * users_eda.ipynb: EDA to gain insight about the distribution of gender, age, country, and interests of users involved in the ad campaigns
 * campaigns_eda.ipynb: EDA to gain insight about the types of campaigns done
+* ads_eda.ipynb: EDA to gain insight about the type of ads in campaigns
+
